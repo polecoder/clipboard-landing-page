@@ -18,3 +18,11 @@ body {
   font-size: 1.13rem; /* 18px */
   font-family: var(--font-family);
 }
+
+img {
+  max-width: 100%;
+}
+
+a {
+  text-decoration: none;
+}
